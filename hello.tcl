@@ -1,4 +1,4 @@
-package require Tcl
-package require Tk
-set a "hello world！"
+set a "hello world"
+set b "nmsl"
 puts $a
+puts $b
