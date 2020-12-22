@@ -1,3 +1,3 @@
 #DEMO
 set a "hello world"
-puts $b
+puts $a
