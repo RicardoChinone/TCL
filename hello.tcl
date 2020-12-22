@@ -1,3 +1,3 @@
 #DEMO
-set a "hello world"
-puts $a
+set u "hello world"
+puts $u
